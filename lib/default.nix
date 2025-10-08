@@ -65,7 +65,7 @@
           disko.nixosModules.disko
           lanzaboote.nixosModules.lanzaboote
           chaotic.nixosModules.default
-          #nix-topology.nixosModules.default
+          nix-topology.nixosModules.default
           proxmox-nixos.nixosModules.proxmox-ve
           sops-nix.nixosModules.sops
           nur.modules.nixos.default
