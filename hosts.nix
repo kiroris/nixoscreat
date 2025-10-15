@@ -25,6 +25,14 @@
       isWorkstation = false;
       theme = "nord";
     };
+
+    nixos = {
+      username = "kiroris";
+      platform = "x86_64-linux";
+      stateVersion = "25.05";
+      isWorkstation = false;
+      theme = "nord";
+    };
   };
 
   darwin = {
